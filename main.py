@@ -1,4 +1,3 @@
-import tkinter as tk
 from youtube_processor import YouTubeProcessor
 from gui_components import AppGUI
 
